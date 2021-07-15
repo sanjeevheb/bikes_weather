@@ -2,6 +2,6 @@
     "warehouse": "bigquery",
     "defaultSchema": "dataform",
     "assertionSchema": "dataform_assertions",
-    "defaultDatabase": "ai-analytics-solutions",
+    "defaultDatabase": "heb-data-form-dev",
     "useRunCache": false
 }
